@@ -20,4 +20,4 @@ Create a simple rule-based chatbot using Python that responds to user input base
 
 ### 1. Clone the Repository or Download the Script
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Tapas2001/rule-based-chatbot-python.git
